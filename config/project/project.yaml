@@ -1,4 +1,4 @@
-dateModified: 1743355557
+dateModified: 1748011260
 email:
   fromEmail: sam@gmail.com
   fromName: Coolify
@@ -17,7 +17,7 @@ system:
   edition: solo
   live: true
   name: Coolify
-  schemaVersion: 5.6.0.2
+  schemaVersion: 5.7.0.3
   timeZone: America/Los_Angeles
 users:
   allowPublicRegistration: false
